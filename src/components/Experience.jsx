@@ -12,9 +12,9 @@ const experienceData = {
   duration: "Jul 2024 - Sep 2024 · 3 mos",
   location: "Bhiwani, Haryana, India · On-site",
   description: [
-    "Developed responsive web applications using React.js with TypeScript",
-    "Implemented state management solutions using Redux Toolkit",
-    "Created reusable UI components with Tailwind CSS",
+    "Developed responsive web applications using HTML, CSS with JavaScript",
+    "Implemented state management solutions using SQL",
+    "Created reusable UI components with Bootstrap",
     "Collaborated with UX designers to implement modern interfaces",
     "Participated in code reviews and agile development processes"
   ],

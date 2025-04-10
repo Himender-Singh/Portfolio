@@ -23,11 +23,11 @@ const Header = () => {
           >
             
             <motion.span 
-              className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 hidden sm:block"
+              className="text-2xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 hidden sm:block"
               initial={{ opacity: 0, x: -10 }}
               animate={{ opacity: 1, x: 0 }}
             >
-              <img src={logo} alt="" className='w-36' />
+              Himender Singh
             </motion.span>
           </motion.div>
 

@@ -250,7 +250,7 @@ const Projects = () => {
               <motion.div
                 key={index}
                 variants={itemVariants}
-                className={`group relative rounded-3xl ${color.bg} ${color.border} border p-1 backdrop-blur-sm transition-all duration-500 hover:shadow-xl ${color.glow}`}
+                className={`group relative rounded-3xl ${color.bg} ${color.border} border p-1 backdrop-blur-sm transition-all duration-500 hover:shadow-2xl ${color.glow}`}
               >
                 <div className={`grid grid-cols-1 lg:grid-cols-2 gap-8 items-center ${isEven ? "" : "lg:flex-row-reverse"}`}>
                   {/* Image section */}

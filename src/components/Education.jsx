@@ -13,8 +13,8 @@ const educationData = [
     score: "CGPA: 8.6 (till 5th semester)",
     icon: <FaUniversity />,
     highlights: [
-      "Specialization in AI & Machine Learning",
-      "President of Coding Club",
+      "Specialization in Data Structures and Algorithmsa",
+      "Winner of College Coding Competition",
       "Published 2 research papers"
     ]
   },
@@ -26,8 +26,8 @@ const educationData = [
     score: "Marks: 87.2%",
     icon: <FaSchool />,
     highlights: [
-      "School Topper in Mathematics",
-      "Represented school in National Science Olympiad"
+      "District prize holder in Drawing Competition",
+      "Represented school in District Science Olympiad"
     ]
   },
   {
@@ -38,8 +38,8 @@ const educationData = [
     score: "Marks: 86.6%",
     icon: <FaSchool />,
     highlights: [
-      "Gold Medal in Science Exhibition",
-      "Member of Student Council"
+      "District winner in General Knowledge Quiz",
+      "District prize holder in Drawing and poetry competition"
     ]
   },
 ];
